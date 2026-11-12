@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794496729|550818792';
+const CACHE_VERSION = '1794497409|1230953536';
 /** @type {string} */
 const CACHE_PREFIX = 'Cóndor Rojo-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
